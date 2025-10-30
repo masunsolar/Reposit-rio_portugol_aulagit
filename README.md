@@ -40,4 +40,4 @@ A equipe foi organizada da seguinte forma:
 
 ## 4. Relatório da Atividade
 
-O relatório completo da atividade, detalhando o papel de cada integrante, os prints do conflito gerado e a descrição de como o mesmo foi resolvido, foi compilado em um arquivo `.doc` e
+O relatório completo da atividade, detalhando o papel de cada integrante, os prints do conflito gerado e a descrição de como o mesmo foi resolvido, foi compilado em um arquivo `.doc` e será enviado juntamente com o link deste repositório.
