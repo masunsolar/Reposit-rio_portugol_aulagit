@@ -3,6 +3,7 @@
 Este repositório foi criado para a atividade prática da disciplina de **Gerência de Configuração e Controle de Versão**, com o objetivo de simular as operações básicas do Git em equipe.
 
 **Matéria:** Gerência de Configuração e Controle de Versão
+
 **Professor:** Eron Ponce Pereira
 **Alunos:**
 * Natan Souza Rodrigues
